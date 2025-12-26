@@ -1,6 +1,4 @@
-# 📄 Document Structure Extractor  
-**Adobe Hackathon – Round 1A**  
-**Theme:** Connecting the Dots Through Docs
+# 📄 OutlineX- Document Structure Extractor  
 
 ---
 
